@@ -35,7 +35,8 @@ body{
     font-weight: 700;
     margin: auto;
     padding: 0px 50px;
-}
+   }
+   
 
 .container > p:nth-child(3) {
     text-align: center;
